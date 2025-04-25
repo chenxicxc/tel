@@ -1,3 +1,4 @@
+https://tool.oschina.net/commons?type=3
 <table class="toolTable table" width="100%" cellspacing="0" cellpadding="0">
            <tbody><tr>
             <th>实色效果</th>
